@@ -1,0 +1,1 @@
+This file must be present in a project. It contains installation instruction about the project along with the information required to operate the project. This file is read by collaborators and assessors first to know how to perform installation of the project and how to operate
